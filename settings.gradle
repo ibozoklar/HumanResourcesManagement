@@ -1,2 +1,3 @@
 rootProject.name = 'HumanResourcesManagement'
+include 'auth-microservice'
 
