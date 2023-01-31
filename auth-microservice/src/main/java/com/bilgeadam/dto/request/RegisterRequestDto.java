@@ -18,4 +18,8 @@ public class RegisterRequestDto {
 
     @Email
     String email;
+
+    String adrdress;
+
+    String telefon;
 }
